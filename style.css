@@ -1,0 +1,27 @@
+nav{
+	text-align:right; padding:20px;
+}
+.red{
+	background-color:orange; 
+}
+nav a{
+	color:white; padding:20px; font-size:15px;
+}
+p{
+	color:white;
+}
+.center{
+	text-align:center;
+	padding-top:25px;
+}
+h2 {text-align:center; color:red
+}
+.half{
+	color:blue;
+}
+.black{
+	color:black; text-align:center;
+}
+h3{
+	text-align:center;
+}
