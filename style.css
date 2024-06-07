@@ -1,14 +1,14 @@
 nav{
-	text-align:right; padding:20px;
+	text-align:right; padding:10px;
 }
 .red{
-	background-color:orange; 
+	background-color:orange; padding-top:10px;
 }
 nav a{
-	color:white; padding:20px; font-size:15px;
+	color:white; padding:10px; font-size:15px; text-decoration:none; 
 }
-p{
-	color:white;
+p.white{
+	color:white; margin-left:25px;
 }
 .center{
 	text-align:center;
@@ -24,4 +24,40 @@ h2 {text-align:center; color:red
 }
 h3{
 	text-align:center;
+}
+body{
+	background-color:lightgrey;
+}
+.grey{
+	background-color:white; 
+	text-align:center; 
+    padding-top:50px;
+    padding-bottom:50px;
+    margin-left:425px;
+    margin-right:425px;	
+	
+}
+.omit{
+	color:blue;
+}
+.just{
+	text-align:center;
+	background-color:white;
+	    padding-top:50px;
+    padding-bottom:50px;
+    margin-left:425px;
+    margin-right:425px;
+
+}
+#large{
+	font-size:35px; color:black;
+	}
+.right{
+	text-align:center;
+}
+.out{
+	font-size:35px; color:black;
+}
+footer{
+	text-align:center; background-color:blue;  margin-top:25px; padding-bottom:25px; color:white; font-size:25px;
 }
