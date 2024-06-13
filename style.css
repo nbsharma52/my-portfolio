@@ -26,10 +26,10 @@ h3{
 	text-align:center;
 }
 body{
-	background-color:lightgrey;
+	background-color:white;
 }
 .grey{
-	background-color:white; 
+	background-color::lightgrey; 
 	text-align:center; 
     padding-top:50px;
     padding-bottom:50px;
@@ -43,7 +43,7 @@ body{
 }
 .just{
 	text-align:center;
-	background-color:white;
+	background-color::lightgrey;
 	    padding-top:50px;
     padding-bottom:50px;
     margin-left:auto;
