@@ -1,0 +1,67 @@
+nav{
+	text-align:right; padding:10px;
+}
+.red{
+	background-color:orange; padding-top:10px;
+}
+nav a{
+	color:white; padding:10px; font-size:25px; text-decoration:none; 
+}
+p.white{
+	color:white; margin-left:25px;font-size:25px;
+}
+.center{
+	text-align:center;
+	padding-top:25px;
+}
+h2 {text-align:center; color:red
+}
+.half{
+	color:blue;
+}
+.black{
+	color:black; text-align:center;
+}
+h3{
+	text-align:center;
+}
+body{
+	background-color:lightgrey;
+}
+.grey{
+	background-color:white; 
+	text-align:center; 
+    padding-top:50px;
+    padding-bottom:50px;
+    margin-left:auto;
+    margin-right:auto;	
+    max-width:600px;
+	
+}
+.omit{
+	color:blue;
+}
+.just{
+	text-align:center;
+	background-color:white;
+	    padding-top:50px;
+    padding-bottom:50px;
+    margin-left:auto;
+    margin-right:auto;
+    max-width:600px;
+}
+#large{
+	font-size:35px; color:black;
+	}
+.right{
+	text-align:center;
+}
+.out{
+	font-size:35px; color:black;
+}
+footer{
+	text-align:center; background-color:blue;  margin-top:25px; padding-bottom:25px; color:white; font-size:25px;
+}
+img{
+	width:400px  ;
+	}
